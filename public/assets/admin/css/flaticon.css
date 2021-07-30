@@ -1,0 +1,60 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 24/09/2018 16:59
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+[class^="icon-"],[class*=" icon-"]{position: relative;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;}
+[class^="icon-"]:before, [class*=" icon-"]:before,
+[class^="icon-"]:after, [class*=" icon-"]:after {   
+  font-family: Flaticon;
+   
+font-style: normal;
+
+}
+
+.icon-vehicles:before { content: "\f100"; }
+.icon-property:before { content: "\f101"; }
+.icon-mobile:before { content: "\f102";}
+.icon-job:before { content: "\f103"; }
+.icon-electronics:before { content: "\f104";}
+.icon-fashion:before { content: "\f105"; }
+.icon-travel:before { content: "\f106"; }
+.icon-service:before { content: "\f107"; }
+.icon-pet:before { content: "\f108"; }
+.icon-food:before { content: "\f109"; }
+.icon-baby-carriage:before { content: "\f10a"; }
+.icon-furniture:before { content: "\f10b"; }
+.icon-art:before { content: "\f10c"; }
+.icon-sport:before { content: "\f10d"; }
+.icon-crane:before { content: "\f10e"; }
+.icon-idea:before { content: "\f10f"; }
+.icon-contact:before { content: "\f110";}
+.icon-phone:before { content: "\f111"; }
+.icon-email:before { content: "\f112"; }
+.icon-broker:before { content: "\f113"; }
+.icon-owner:before { content: "\f114"; }
+.icon-rent:before { content: "\f115"; }
+.icon-sell:before { content: "\f116"; }

@@ -1,0 +1,14 @@
+.ourWizard{
+	font-size: 30px;
+    color: #fff;
+    background-color: #ff7676;
+}
+
+ .ourWizard:hover {
+    color: #ff7676;
+    background-color: #fff;
+}
+
+.wizard-finish{
+	display: none;
+}
